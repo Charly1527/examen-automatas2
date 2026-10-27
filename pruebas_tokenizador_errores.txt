@@ -1,4 +1,0 @@
-int x = 10 @ 2;
-char *texto = "sin cerrar;
-float y = 3.5;
-/* comentario sin cerrar
